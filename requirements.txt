@@ -1,1 +1,4 @@
+face_recognition
+opencv-python
 streamlit
+pillow
